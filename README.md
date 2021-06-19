@@ -1,4 +1,4 @@
-# PetShop
+# Pet Shop
 * [Pet Shop Dapp](https://pippetshop.surge.sh/) is a decentralized application, built over Ethereum blockchain. 
 * Each pet is a NFT i.e. unique. Token standard used is ERC-721.
 * IPFS is used to store ERC-721 (Pet's) metadata (image and other data).
